@@ -11,7 +11,7 @@ indexのtweetに新たな項目リツイートを付けてみました。（ま�
 
 ## デプロイ先の URL または画面収録したファイル名
 
-https://drive.google.com/file/d/1wWeC0hDWzI_XBIy15K80eE6KOnVyQlwm/view?usp=drive_link
+
 
 ## 使い方
 
